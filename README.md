@@ -619,7 +619,7 @@ if {[info exists runVisualizerNodesTogether]} {
 | [`nmos-contest-result.png`](./nmos-contest-result.png) | 수업 내 nMOS 콘테스트 공동 1위 증빙 |
 | [`pmos-process-structure.png`](./pmos-process-structure.png) | PMOS 공정 구조 |
 | [`pmos-optimization.png`](./pmos-optimization.png) | PMOS 최적화 결과 |
-| [`반도체집적공정_중간고사대체리포트_송민호.pdf`](./반도체집적공정_중간고사대체리포트_송민호.pdf) | 전체 프로젝트 보고서 |
+| [`Project_Report.pdf`](./Project_Report.pdf) | 전체 프로젝트 보고서 |
 
 ---
 
@@ -627,7 +627,7 @@ if {[info exists runVisualizerNodesTogether]} {
 
 프로젝트의 전체 공정 설계 과정, parameter sweep, 성능 비교 및 결과 분석은 아래 보고서에서 확인할 수 있습니다.
 
-[View Project Report](./반도체집적공정_중간고사대체리포트_송민호.pdf)
+[View Project Report](./Project_Report.pdf)
 
 ---
 
