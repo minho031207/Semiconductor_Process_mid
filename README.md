@@ -22,6 +22,14 @@ Synopsys Sentaurus TCAD를 활용하여 nMOS의 성능을 최적화하고, 수�
 
 ---
 
+## Key Results
+
+| Project | Key Outcome |
+| :--- | :--- |
+| nMOS Optimization | Co-1st place in an in-course contest; Ion/Ioff = 6.186 × 10¹¹ and SS = 82.953 mV/dec |
+| PMOS Process Optimization | Converted the SimpleMOS baseline into a PMOS process and satisfied all Ion, Ioff and SS design targets |
+| Implementation | Parameterized Sprocess, Sdevice and Svisual workflows using Synopsys Sentaurus TCAD |
+
 # 1. nMOS Performance Optimization
 
 ## 1.1 Objective
